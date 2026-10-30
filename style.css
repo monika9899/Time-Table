@@ -1,0 +1,80 @@
+body {
+    font-family: "Times New Roman", serif;
+    margin: 20px;
+}
+
+.header {
+    text-align: center;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.header img {
+    width: 80px;
+}
+
+.header p {
+    margin: 2px 0;
+}
+
+#info {
+    width: 100%;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.right {
+    text-align: right;
+}
+
+#timetable {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 12px;
+}
+
+#timetable th,
+#timetable td {
+    border: 1px solid black;
+    padding: 4px;
+}
+
+.day {
+    font-weight: bold;
+    font-size: 10px;
+}
+
+.lunch {
+    width: 50px;
+}
+
+.green {
+    background-color: #a9d18e;
+}
+
+.blue {
+    background-color: #9dc3e6;
+}
+
+#papers {
+    width: 85%;
+    border-collapse: collapse;
+    margin-top: 25px;
+    font-size: 12px;
+}
+
+#papers th,
+#papers td {
+    border: 1px solid black;
+    padding: 2px 6px;
+    text-align: left;
+}
+
+.sign {
+    text-align: right;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 30px;
+}
